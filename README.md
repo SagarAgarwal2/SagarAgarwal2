@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am an btech student cse<br>I love dsa and and developement
+i am an btech student<br>I love dsa and and developement
 
 
 ## 🌐 Socials:
